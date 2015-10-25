@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/samiyah8989/education.png?label=ready&title=Ready)](https://waffle.io/samiyah8989/education)
 # education funding
 ##topic
 Problems with public school education funding.
