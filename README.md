@@ -5,9 +5,9 @@
 ### Skills for this project (please check off the skills the student covered during this project):
 
 **HTML**
- 1. [ ] image tags
+ 1. [x] image tags
  2. [ ] a tags
- 3. [ ] list tags
+ 3. [x] list tags
  4. [ ] header tags
  5. [ ] nav tags
  6. [ ] footer tags
